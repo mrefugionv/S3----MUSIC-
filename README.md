@@ -11,7 +11,7 @@ es la hipótesis a probar en este proyecto.
 Siempre que investigamos, necesitamos formular hipótesis que después podamos probar. 
 En este proyecto, se utilizan datos reales de transmisión de música online para comparar las preferencias musicales de las ciudades de Springfield y Shelbyville.
 
-## Hereramientas utilizadas 
+## Herramientas utilizadas 
 
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
