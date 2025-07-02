@@ -1,4 +1,4 @@
-# S3----MUSIC-
+# S3----MUSIC
 Estudio de actividad en plataforma de música por días de la semana en dos ciudades distintas.
 
 Data wrangling:  Exploración de datos, preprocesamiento de datos y comprobación de hipótesis mediante adrupamiento de datos y filtrado de dataframes.
